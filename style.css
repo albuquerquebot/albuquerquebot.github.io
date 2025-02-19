@@ -7,7 +7,9 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(0.25turn, #3437f7, #34d4d7)
+  background: linear-gradient(0.25turn, #3437f7, #34d4d7);
+  margin: 0;
+  padding: 0;
 }
 * {
   color: black;
